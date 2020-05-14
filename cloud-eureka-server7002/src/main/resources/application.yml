@@ -10,3 +10,4 @@ eureka:
     serviceUrl:
       defaultZone: http://eureka7001.com
 
+
