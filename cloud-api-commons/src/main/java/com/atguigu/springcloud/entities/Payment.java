@@ -10,4 +10,7 @@ import lombok.NoArgsConstructor;
 public class Payment {
     private Long id;
     private String serial;
+
+    public Payment(long l, String serial001) {
+    }
 }
